@@ -1,0 +1,7 @@
+transformers
+accelerate
+peft
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn

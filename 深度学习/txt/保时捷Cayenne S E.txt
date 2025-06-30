@@ -1,0 +1,5 @@
+保时捷Cayenne S E-hybrid混合动力报警
+故障现象：Cayenne S E-hybrid在等红绿灯时，混合动力报警，在高压电源电子设备里有故障码：P178E00unction limitation due toexcessive temperature. P0EE00 DriveMotor Inverter Temperature Sensor  “A”Circuit Range/Performance．POAF300 Drive Motor InverterTemperature Sensor“B”CircuitRange/Performance．P0D200 DriveMotor Inverter Temperature Sensor  "C"  circuit Range/Performance．以上4个关于温度的故障码会随机出现。
+    故障诊断：根据GFF检杳高温冷却系统回路、冷却液位、电机的节温、器。检查电机温度曲线变化平稳，怀疑电机内部温度传感器故障或电源电子设备故障，但不能百分百确定。对比同款车型，反复对比数据流，发现电源电了设备的温度变化异常。
+确认GFF信息不精确，被错误地引导至电机温度异常了。在外界温度较低时，电源电子设备的节温器要保证必要的冷却液流量通过电源电子设备，该低温冷却系统的最高工作温度约为70℃。
+    故障排除：发现电源电子设备的节温器异样，更换电源电子设备的节温器，对换试车，故障转移到另一部同款车好，而该车故障排除。自2015年7月20日至2015年8月28日间生产的E hybrid车型，安装了有两根弹簧的节温器。
